@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reyha\\source\\repos\\hastane2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|c:\\users\\reyha\\source\\repos\\hastane2\\hastane2\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|solutionrelative:hastane2\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\doktor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|solutionrelative:hastane2\\doktor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\tibbiraporlar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|solutionrelative:hastane2\\tibbiraporlar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\raporekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|solutionrelative:hastane2\\raporekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\randevual.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|solutionrelative:hastane2\\randevual.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\hastaekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|solutionrelative:hastane2\\hastaekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\hasta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|solutionrelative:hastane2\\hasta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\doktorekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|solutionrelative:hastane2\\doktorekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\randevusinifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|solutionrelative:hastane2\\randevusinifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\randevual.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B01E271-6C5D-49EA-9D0D-740BDAB22183}|hastane2\\hastane2.csproj|solutionrelative:hastane2\\randevual.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "anasayfa.aspx",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\anasayfa.aspx",
+              "RelativeDocumentMoniker": "hastane2\\anasayfa.aspx",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\anasayfa.aspx",
+              "RelativeToolTip": "hastane2\\anasayfa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T09:55:22.26Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RandevuAl.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\RandevuAl.aspx.cs",
+              "RelativeDocumentMoniker": "hastane2\\RandevuAl.aspx.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\RandevuAl.aspx.cs",
+              "RelativeToolTip": "hastane2\\RandevuAl.aspx.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAuwG8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:58:49.143Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "randevusinifi.cs",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\randevusinifi.cs",
+              "RelativeDocumentMoniker": "hastane2\\randevusinifi.cs",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\randevusinifi.cs",
+              "RelativeToolTip": "hastane2\\randevusinifi.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:36:47.829Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TibbiRaporlar.aspx",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\TibbiRaporlar.aspx",
+              "RelativeDocumentMoniker": "hastane2\\TibbiRaporlar.aspx",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\TibbiRaporlar.aspx",
+              "RelativeToolTip": "hastane2\\TibbiRaporlar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-19T23:27:19.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RaporEkle.aspx",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\RaporEkle.aspx",
+              "RelativeDocumentMoniker": "hastane2\\RaporEkle.aspx",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\RaporEkle.aspx",
+              "RelativeToolTip": "hastane2\\RaporEkle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-19T23:27:09.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HastaEkle.aspx",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\HastaEkle.aspx",
+              "RelativeDocumentMoniker": "hastane2\\HastaEkle.aspx",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\HastaEkle.aspx",
+              "RelativeToolTip": "hastane2\\HastaEkle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-19T23:26:45.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hasta.aspx",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\hasta.aspx",
+              "RelativeDocumentMoniker": "hastane2\\hasta.aspx",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\hasta.aspx",
+              "RelativeToolTip": "hastane2\\hasta.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-19T23:26:35.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "doktor.aspx",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\doktor.aspx",
+              "RelativeDocumentMoniker": "hastane2\\doktor.aspx",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\doktor.aspx",
+              "RelativeToolTip": "hastane2\\doktor.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-19T23:25:49.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoktorEkle.aspx",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\DoktorEkle.aspx",
+              "RelativeDocumentMoniker": "hastane2\\DoktorEkle.aspx",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\DoktorEkle.aspx",
+              "RelativeToolTip": "hastane2\\DoktorEkle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-19T23:26:22.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RandevuAl.aspx",
+              "DocumentMoniker": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\RandevuAl.aspx",
+              "RelativeDocumentMoniker": "hastane2\\RandevuAl.aspx",
+              "ToolTip": "C:\\Users\\reyha\\source\\repos\\hastane2\\hastane2\\RandevuAl.aspx",
+              "RelativeToolTip": "hastane2\\RandevuAl.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-18T19:58:43.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
